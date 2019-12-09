@@ -40,3 +40,5 @@ A dynamic DNS script was implemented to allow the Raspberry Pi to be controlled 
 ### PyCNC
 
 [PyCNC](https://github.com/Nikolay-Kha/PyCNC) is an open source Python package written by Nikolay Khabarov. This package was used for this project with some modifcations to the code and configuration files.
+
+>Note: The commit ID of PyCNC that was frozen for this project was [f5ae14](https://github.com/Nikolay-Kha/PyCNC/commit/f5ae14b72b0dee7e24f1c323771936f1daa1da97)
